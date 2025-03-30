@@ -1,0 +1,56 @@
+/* enquiry.component.css */
+h1{
+  color:greenyellow;
+  text-align: center;
+}
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color:black; /* White background for the form */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+    border: 1px solid #ddd; /* Light grey border */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align items */
+  }
+  
+  div {
+    margin-bottom: 15px;
+    width: 100%; /* Ensure divs take full width */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color:white;
+    width: 100%; /* Ensure labels take full width */
+  }
+  
+  input, textarea {
+    width: 100%;
+    max-width: 500px; /* Limit input width */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f0f8ff; /* Light blue background for inputs */
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  button {
+    width: 100%;
+    max-width: 500px; /* Limit button width */
+    background-color: #007bff; /* Blue button */
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

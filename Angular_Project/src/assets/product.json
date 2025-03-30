@@ -1,0 +1,396 @@
+{
+    "homePageContent": [
+        {
+            "id": 1,
+            "name": "Tesla Model 3",
+            "type": "Car",
+            "brand": "Tesla",
+            "price": 35000,
+            "offer": "5% off",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwdQBNhmmH3Q5zNXkTOX9Bl-TnbggcQ65x9A&s"
+        },
+        {
+            "id": 2,
+            "name": "Trek Domane AL 2",
+            "type": "Cycle",
+            "brand": "Trek",
+            "price": 750,
+            "offer": "10% off",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfJwAw7heEAvmExsfD7BSPNr00DApIBI3LA&s"
+        },
+        {
+            "id": 3,
+            "name": "Yamaha YZF R15 V4",
+            "type": "Motorbike",
+            "brand": "Yamaha",
+            "price": 1800,
+            "offer": "10% off",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvE9Tf2gVNTtYrPrbDsjhXlWocfKyuw95Zw&s"}
+],
+            "products": [
+              {
+                "id": 1,
+                "name": "Toyota Camry",
+                "type": "Car",
+                "brand": "Toyota",
+                "price": 24000,
+                "offer": "10% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSRu4zVGPok0ByK3ibbfahZqm6gOV29pZCQ&s"
+              },
+              {
+                "id": 2,
+                "name": "Honda Civic",
+                "type": "Car",
+                "brand": "Honda",
+                "price": 21000,
+                "offer": "5% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHSmQW5JhuVIFpkiVnMDng1zZE9n6BRJtWg&s"
+              },
+              {
+                "id": 3,
+                "name": "Yamaha YZF R1",
+                "type": "Motorbike",
+                "brand": "Yamaha",
+                "price": 18000,
+                "offer": "7% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6502ygJ53NwuQ1ydypYGRdgftqpLW6gJ8g&s"
+              },
+              {
+                "id": 4,
+                "name": "Ford Mustang",
+                "type": "Car",
+                "brand": "Ford",
+                "price": 35000,
+                "offer": "12% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtNTgVXI_IbJOD5ifNXtl5kcr-ZoJ95MPAg&s"
+              },
+              {
+                "id": 5,
+                "name": "Royal Enfield Classic 350",
+                "type": "Motorbike",
+                "brand": "Royal Enfield",
+                "price": 2000,
+                "offer": "Free Accessories",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPiXKl54KMeyQrn3JCRNd6RwszqyKec66sQ&s"
+              },
+              {
+                "id": 6,
+                "name": "Kawasaki Ninja 650",
+                "type": "Motorbike",
+                "brand": "Kawasaki",
+                "price": 8000,
+                "offer": "Limited Time Offer",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMeR3OvwtodiYDN0oRK8mS_ixPyVt6vL3Jzg&s"
+              },
+              {
+                "id": 7,
+                "name": "BMW X5",
+                "type": "Car",
+                "brand": "BMW",
+                "price": 48000,
+                "offer": "15% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqatCU__EErX3YPRp-fBHOCEvAm6nSRJ0uA&s"
+              },
+              {
+                "id": 8,
+                "name": "Ducati Panigale V4",
+                "type": "Motorbike",
+                "brand": "Ducati",
+                "price": 25000,
+                "offer": "Exclusive Discount",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWf7c33c9-RGtLrH7xXbRO2S6-pfnvMl8hpA&s"
+              },
+              {
+                "id": 9,
+                "name": "Harley Davidson Iron 883",
+                "type": "Motorbike",
+                "brand": "Harley Davidson",
+                "price": 12000,
+                "offer": "10% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1dH9SDX3MKXquDKXMw3BKqQkOmNjA54Xcw&s"
+              },
+              {
+                "id": 10,
+                "name": "Chevrolet Cruze",
+                "type": "Car",
+                "brand": "Chevrolet",
+                "price": 14000,
+                "offer": "8% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4Bri19PpGatDvaD7CfxKnPmvpxQN-ovMXQ&s"
+              },
+              {
+                "id": 11,
+                "name": "Suzuki Hayabusa",
+                "type": "Motorbike",
+                "brand": "Suzuki",
+                "price": 18000,
+                "offer": "5% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNskUfs-o9hgkzEJtZy2SpqdzdInM5JUm5jg&s"
+              },
+              {
+                "id": 12,
+                "name": "Mahindra XUV500",
+                "type": "Car",
+                "brand": "Mahindra",
+                "price": 16000,
+                "offer": "Seasonal Offer",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EAtbTKigCcCRZd3rW0qmnJ0ui23mzAAYMA&s"
+              },
+              {
+                "id": 13,
+                "name": "Audi A6",
+                "type": "Car",
+                "brand": "Audi",
+                "price": 55000,
+                "offer": "Luxury Offer",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8ClKnTL6ZkGNRSXezWRwSGZbbFpqjRoYJg&s"
+              },
+              {
+                "id": 14,
+                "name": "Hero Splendor Plus",
+                "type": "Bike",
+                "brand": "Hero",
+                "price": 700,
+                "offer": "Exchange Bonus",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkWYTPjdEDjshM_ytmqksdZU2rnZsi29ptg&s"
+              },
+              {
+                "id": 15,
+                "name": "Hyundai Verna",
+                "type": "Car",
+                "brand": "Hyundai",
+                "price": 18000,
+                "offer": "Special Price",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQYtgINMW-Kow2H6hJ37STMI_ZbVuTAAKqcQ&s"
+              },
+              {
+                "id": 16,
+                "name": "KTM Duke 390",
+                "type": "Motorbike",
+                "brand": "KTM",
+                "price": 3000,
+                "offer": "Festive Offer",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7Kxtp-0YQ5GUUgFMacU7vULnrWyfzfj_NA&s"
+              },
+              {
+                "id": 17,
+                "name": "Tata Harrier",
+                "type": "Car",
+                "brand": "Tata",
+                "price": 25000,
+                "offer": "10% off",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjqSl4W9zd3hiY1Y4S_UR3WGNA28lMJpV-Q&s"
+              },
+              {
+                "id": 18,
+                "name": "TVS Apache RR 310",
+                "type": "Motorbike",
+                "brand": "TVS",
+                "price": 2600,
+                "offer": "Cashback Available",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYevFQL6CF4Itu6WFRIIs00i68FnVF9pmQw&s"
+              },
+              {
+                "id": 19,
+                "name": "Mercedes C-Class",
+                "type": "Car",
+                "brand": "Mercedes",
+                "price": 62000,
+                "offer": "Exclusive Savings",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4b79ZKrEn6uRU7xtI9KaFYV8qCij06MccaQ&s"
+              },
+              {
+                "id": 20,
+                "name": "Bajaj Pulsar NS200",
+                "type": "Bike",
+                "brand": "Bajaj",
+                "price": 1500,
+                "offer": "New Year Offer",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKULFnN5sLcBwM902Us1LgZ5HWWOLI_rg2A&s"
+              },
+              {
+                    "id": 21,
+                    "name": "Ford EcoSport",
+                    "type": "Car",
+                    "brand": "Ford",
+                    "price": 17000,
+                    "offer": "Winter Sale",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3D_tgkoMG7r9PKlr559riuB5tSmoiJD4rjA&s"
+                  },
+                  {
+                    "id": 22,
+                    "name": "Honda Accord",
+                    "type": "Car",
+                    "brand": "Honda",
+                    "price": 29000,
+                    "offer": "5% off",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWh6rcJLLEYC56iZiKJY5lZz9PqY4EFpAEBw&s"
+                  },
+                  {
+                    "id": 23,
+                    "name": "KTM RC 200",
+                    "type": "Motorbike",
+                    "brand": "KTM",
+                    "price": 2800,
+                    "offer": "Limited Time Offer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcYYcEZH5sLrAmIQWmjUR0yh6xG1v5nNZAA&s"
+                  },
+                  {
+                    "id": 24,
+                    "name": "Tesla Model 3",
+                    "type": "Car",
+                    "brand": "Tesla",
+                    "price": 48000,
+                    "offer": "Electric Deal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_i5ceY81MsivWSja1B1NTN5DexhyykQ2Xg&s"
+                  },
+                  {
+                    "id": 25,
+                    "name": "Maruti Suzuki Swift",
+                    "type": "Car",
+                    "brand": "Maruti",
+                    "price": 12000,
+                    "offer": "7% off",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfJwT6F64rw_hVoXo7v3jtBqAcW7NBPtDcg&s"
+                  },
+                  {
+                    "id": 26,
+                    "name": "Suzuki GSX-R1000",
+                    "type": "Motorbike",
+                    "brand": "Suzuki",
+                    "price": 14000,
+                    "offer": "Free Accessories",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8iOYDHE5TevMPcwzS6P1ZQlTZHgiiEPo8A&s"
+                  },
+                  {
+                    "id": 27,
+                    "name": "Tata Nexon EV",
+                    "type": "Car",
+                    "brand": "Tata",
+                    "price": 22000,
+                    "offer": "Green Energy Discount",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXr8-8p5qgloHnJdl-GH4S5jeSR-Ne0PqugA&s"
+                  },
+                  {
+                    "id": 28,
+                    "name": "Bajaj Dominar 400",
+                    "type": "Motorbike",
+                    "brand": "Bajaj",
+                    "price": 2800,
+                    "offer": "Cashback Available",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3WGjxuvi_OIUE3ak0femSI8g9293v01aKw&s"
+                  },
+                  {
+                    "id": 29,
+                    "name": "Mahindra Thar",
+                    "type": "Car",
+                    "brand": "Mahindra",
+                    "price": 27000,
+                    "offer": "Adventure Bonus",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwqqq4gY94HYCFo65EHYCdyl32GAh-qD1_Q&s"
+                  },
+                  {
+                    "id": 30,
+                    "name": "Harley Davidson Street 750",
+                    "type": "Motorbike",
+                    "brand": "Harley Davidson",
+                    "price": 8000,
+                    "offer": "Exclusive Offer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBgibG-l6PCCiJHcnonZwEfHC2Q6GIKcrKQ&s"
+                  },
+                  {
+                    "id": 31,
+                    "name": "Volkswagen Polo",
+                    "type": "Car",
+                    "brand": "Volkswagen",
+                    "price": 15000,
+                    "offer": "8% off",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r7qtGTO5R9pJN7cSUjG2b-xH6isY-uDMXA&s"
+                  },
+                  {
+                    "id": 32,
+                    "name": "Hyundai i20",
+                    "type": "Car",
+                    "brand": "Hyundai",
+                    "price": 14000,
+                    "offer": "Best Seller",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTR1Fdw0e4_5kM1gk8_Kfh1z0dAht53WNdmA&s"
+                  },
+                  {
+                    "id": 33,
+                    "name": "Hero Xpulse 200",
+                    "type": "Bike",
+                    "brand": "Hero",
+                    "price": 1300,
+                    "offer": "New Year Special",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYOho6ZKzXFS5Z8m5fDL6Ct74WHiyfym_Ptg&s"
+                  },
+                  {
+                    "id": 34,
+                    "name": "Maruti Baleno",
+                    "type": "Car",
+                    "brand": "Maruti",
+                    "price": 13500,
+                    "offer": "Exchange Bonus",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGn-0ivy-JDgotT9kezHfHF8zjI8hMC1rVug&s"
+                  },
+                  {
+                    "id": 35,
+                    "name": "BMW G 310 R",
+                    "type": "Motorbike",
+                    "brand": "BMW",
+                    "price": 3200,
+                    "offer": "Festive Deal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Mfmw_VTuAqgHTwuQxcQsaU85ZkLz45N_3A&s"
+                  },
+                  {
+                    "id": 36,
+                    "name": "Honda Hornet 2.0",
+                    "type": "Bike",
+                    "brand": "Honda",
+                    "price": 1600,
+                    "offer": "Limited Stock",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8mSzHzCc2SsAKgGmIsseZ0RlTCJOw75TVw&s"
+                  },
+                  {
+                    "id": 37,
+                    "name": "Ford Endeavour",
+                    "type": "Car",
+                    "brand": "Ford",
+                    "price": 35000,
+                    "offer": "Luxury Savings",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsVCHBlhPDP3ZHQ78fgIV4rAY0PZHAdf-VA&s"
+                  },
+                  {
+                    "id": 38,
+                    "name": "Honda CB350",
+                    "type": "Bike",
+                    "brand": "Honda",
+                    "price": 2500,
+                    "offer": "5% off",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfoWKiEknCzS0KNZLniwXr5cQTvcO54pz9w&s"
+                  },
+                  {
+                    "id": 39,
+                    "name": "Renault Duster",
+                    "type": "Car",
+                    "brand": "Renault",
+                    "price": 18000,
+                    "offer": "Seasonal Discount",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTluac4HJ8MHErBDh0hdqgsyii18LxirfxXJw&s"
+                  },
+                  {
+                    "id": 40,
+                    "name": "Triumph Street Triple",
+                    "type": "Motorbike",
+                    "brand": "Triumph",
+                    "price": 10000,
+                    "offer": "Special Offer",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_extP3DnvV-5FS8SDm22sr7xys5T4CJOQKQ&s"
+                  }
+                ]
+              }
+              
+            
+          
+          

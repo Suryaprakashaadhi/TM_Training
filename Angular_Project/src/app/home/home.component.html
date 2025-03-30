@@ -1,0 +1,23 @@
+<div class="home-page">
+    <h1>Revamp Rides !</h1>
+    <div class="product-container">
+        <div class="product-card" *ngFor="let item of homePageContent">
+            <div class="product-image">
+                <img src="{{ item.image }}" alt="{{ item.name }}">
+            </div>
+            <div class="product-details">
+                <h2>{{ item.name }}</h2>
+                <p><strong>Type:</strong> {{ item.type }}</p>
+                <p><strong>Brand:</strong> {{ item.brand }}</p>
+                <p><strong>Price:</strong> ${{ item.price }}</p>
+                <p class="offer"><strong>Offer:</strong> {{ item.offer }}</p>
+                <button class="buy-now" (click)="addToCart(item)">Buy Now</button>
+                <button class="go-to-cart" routerLink="/cart">Go to Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="explore-more-container">
+    <a routerLink="/product" class="explore-more-btn">Explore More >></a>
+</div>

@@ -1,0 +1,33 @@
+<div class="product-page">
+    <h1>Products</h1>
+    
+    <!-- Filter Dropdown -->
+    <div class="filter-section">
+        <label for="typeFilter">Filter by Type:</label>
+        <select id="typeFilter" [(ngModel)]="selectedType" (change)="filterProducts()">
+            <option value="">All</option>
+            <option value="Car">Car</option>
+            <option value="Motorbike">Motorbike</option>
+            <option value="Bike">Bike</option>
+            <option value="Cycle">Cycle</option>
+        </select>
+    </div>
+
+    <div class="product-container">
+        <div class="product-card" *ngFor="let product of products">
+            <div class="product-image">
+                <img [src]="product.image" alt="{{ product.name }}">
+            </div>
+            <div class="product-details">
+                <h2>{{ product.name }}</h2>
+                <p><strong>Type:</strong> {{ product.type }}</p>
+                <p><strong>Brand:</strong> {{ product.brand }}</p>
+                <p><strong>Price:</strong> ${{ product.price }}</p>
+                <p class="offer"><strong>Offer:</strong> {{ product.offer }}</p>
+                <button class="buy-now" (click)="addToCart(product)">Buy Now</button>
+                <button class="go-to-cart" routerLink="/cart">Go to Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
+

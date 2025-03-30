@@ -1,0 +1,16 @@
+<h1>Enquiry Form</h1>
+<form #enquiryForm="ngForm" (ngSubmit)="onSubmit(enquiryForm)">
+  <div>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" ngModel>
+  </div>
+  <div>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" ngModel>
+  </div>
+  <div>
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" ngModel></textarea>
+  </div>
+  <button type="submit">Submit</button>
+</form>

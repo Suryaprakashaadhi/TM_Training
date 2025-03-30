@@ -1,0 +1,37 @@
+.about-container {
+  padding: 30px;
+  
+  color: white;
+  font-family: Arial, sans-serif;
+  line-height: 1.8;
+}
+
+h1, h2 {
+  color: greenyellow;
+  font-weight: 600;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+ul li, ol li {
+  margin-bottom: 10px;
+}
+
+strong {
+  color: #e74c3c;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+.about-container a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.about-container a:hover {
+  text-decoration: underline;
+}
